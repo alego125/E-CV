@@ -359,10 +359,6 @@ a#logo {
 .navbar-nav li.active a {
   opacity: 1;
 }
-.navbar img{
-  width: 30%;
-  filter: drop-shadow(1px 1px 1px #fff);
-}
 .collapse:not(.show) {
   display:block;
 }
